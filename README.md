@@ -7,4 +7,4 @@ Language : Python
 
 GUI : Thinker
 
-Testy : PyTest
+Tests : PyTest
